@@ -1,7 +1,7 @@
 # GO-learning
 
-**_I already knew Java and used it for all my backend project. But now I'm looking for another one as an alternative. Then I think I should go for GO. So, this is repository for learning Golang._**.
+**_I primarily used Java for all BE project. At this time, I feel the need to acquire new thing and what's inside my mind is that I should go for GO. So, this is the repository for learning Golang._**.
 
 What's within here:
 
-- [topics](https://github.com/gilangrkun/GO-learning/tree/master/topics)
+- [topics](https://github.com/gilangrkun/GO-learning/tree/learn/topics)
