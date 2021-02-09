@@ -4,4 +4,4 @@
 
 What's within here:
 
-- [topics](https://github.com/gilangrkun/GO-learning/tree/learn/topics)
+- [topics](https://github.com/kuntiarso/GO-learning/tree/learn/topics)
